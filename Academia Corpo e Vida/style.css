@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    font-size: 20px;
+    background-attachment: fixed;
+    background-blend-mode: overlay;
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.486);
+    background-repeat: no-repeat;
+    background-image: url(halter.jpg)
+  }
+  header {
+    background: linear-gradient(to bottom, rgb(35, 139, 9), rgb(157, 241, 108), rgb(147, 224, 147));
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  nav li {
+    margin-right: 20px;
+  }
+  nav a {
+    color: black;
+  }
+  #contato img {
+    width: 50px;
+    border-radius: 50px;
+  }
+  #contato {
+    text-align: center;
+  }
+  #planos img {
+    width: 600px;
+    border-radius: 50px;
+  }
+  #planos {
+    text-align: center;
+  }
+  #endereço {
+    text-align: center;
+  }
+  iframe {
+    border-radius: 30px;
+  }
+  #logo {
+    width: 350px;
+    border-radius: 50px;
+    align-items: center;
+  }
+  #texto {
+    margin-left: -50%;
+    margin-right: 2%;
+    color: black;
+  }
+  #sobre {
+    text-align: center;
+  }
+  #treinos {
+    text-align: center;
+  }
+  h2 {
+    color: black;
+  }
